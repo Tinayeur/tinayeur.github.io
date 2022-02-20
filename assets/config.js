@@ -12,7 +12,7 @@ const config = {
     PROJECTS: [
         { id: "project-1", image: "assets/img/logo_c4y.png", link: "", name: "Coding 4 You - Owner" },
         { id: "project-2", image: "assets/img/logo_keocloud.png", link: "https://keocloud.fr", name: "KeoCloud - Staff & Developer" },
-        { id: "project-3", image: "assets/img/logo_discbot.jpg", link: "https://discbot_discord.com", name: "DiscBot - Owner" },
+        { id: "project-3", image: "assets/img/logo_discbot.jpg", link: "https://discbot-discord.com", name: "DiscBot - Owner" },
         // { id: "project-4", image: "assets/img/logo_hackademia.png", link: "https://discord.gg/ssrg28tvhj", name: "ProjectList - Staff & Developer" },
     ],
 

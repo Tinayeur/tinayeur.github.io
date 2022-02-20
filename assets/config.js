@@ -11,13 +11,13 @@ const config = {
 
     PROJECTS: [
         { id: "project-1", image: "assets/img/logo_c4y.png", link: "https://discord.gg/jH6wB3B6s8", name: "Coding 4 You - Owner" },
-        { id: "project-2", image: "assets/img/logo_keocloud.png", link: "https://discord.gg/ZSZwcyB6TA", name: "KeoCloud - Staff & Developer" },
-        { id: "project-3", image: "assets/img/logo_discbot.jpg", link: "https://discord.gg/5N2X3GG2jz", name: "DiscBot - Owner" },
+        { id: "project-2", image: "assets/img/logo_keocloud.png", link: "https://keocloud.fr", name: "KeoCloud - Staff & Developer" },
+        { id: "project-3", image: "assets/img/logo_discbot.jpg", link: "https://discbot_discord.com", name: "DiscBot - Owner" },
         // { id: "project-4", image: "assets/img/logo_hackademia.png", link: "https://discord.gg/ssrg28tvhj", name: "ProjectList - Staff & Developer" },
     ],
 
     SOCIALS: [
         { class_name: "fab fa-github", link: "https://github.com/Tinayeur" },
-        { class_name: "fab fa-opera", link: "https://discbot_discord.com"}
+        { class_name: "fab fa-opera", link: "https://discord.com/R3tuTqdMTH"}
     ],
 }

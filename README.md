@@ -28,14 +28,14 @@
   <div>    
   <!-- <a href = "mailto:email@mail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
     <div>
-      <p>Pi-heberg</p>  
-      <a href="https://discord.gg/ZSZwcyB6TA" target="_blank">
+      <p>KeoCloud</p>  
+      <a href="https://discord.gg/knn5NS3mGP" target="_blank">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
       </a> 
     </div>
     <div>
-      <p>Night-Group</p>  
-      <a href="https://discord.gg/jH6wB3B6s8" target="_blank">
+      <p>DiscBot</p>  
+      <a href="https://discord.gg/bHSWDab6" target="_blank">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
       </a> 
     </div>

@@ -18,8 +18,8 @@
  <p align="center"></p>
 <div align="center">
     <a href="https://github.com/Tinayeur">
-      <img height="175em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Tinayeurcount_private=true&show_icons=true&include_all_commits=true&theme=radical&bg_color=000000"/>
-      <img height="175em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinayeurlang=FR&theme=radical&bg_color=000000&langs_count=7"/>
+      <img height="175em" width="45%" src="https://github-readme-stats.vercel.app/api?username=tinayeurcount_private=true&show_icons=true&include_all_commits=true&theme=radical&bg_color=000000"/>
+      <img height="175em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinayeurlang=FR&theme=radical&bg_color=000000&langs_count=7"/>
     </a>
 </div>
   <hr>
@@ -88,6 +88,6 @@
   
   <hr>
     <h3>Person who read this repository</h3>
-    <a href="https://discords.com/bio/p/LACOSTAR91" target="_blank">
-      <img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LACOSTAR91&repo=LACOSTAR91&countColorcountColor&countColor=%FFFFFF"/>
+    <a href="https://discords.com/bio/p/tinayeur" target="_blank">
+      <img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=tinayeur&repo=tinayeur&countColorcountColor&countColor=%FFFFFF"/>
     </a>

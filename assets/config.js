@@ -18,6 +18,6 @@ const config = {
 
     SOCIALS: [
         { class_name: "fab fa-github", link: "https://github.com/Tinayeur" },
-        { class_name: "fab fa-opera", link: "https://discord.com/R3tuTqdMTH"}
+        { class_name: "fab fa-opera", link: "https://discord.gg/bHSWDab6"}
     ],
 }
